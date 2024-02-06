@@ -6,10 +6,13 @@
 💬 Ask me about - How to change yours life direction with code?
 🚵‍♂️ Hobby - It's bike trips!
 
-### Technology stuck:
-
-![image](https://github.com/BHDShostak/BHDShostak/assets/94319604/a2826893-ddee-4fdf-bb21-c40883d132b4)
-
+### Technology stuck 👨‍💻
+-Golang
+-SAS/4GL
+-Python
+-DB: Oracle,Mongo,MySql
+-Postman
+-Docker
 
 
 
